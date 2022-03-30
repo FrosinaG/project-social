@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Spartan", sans-serif;
+}
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  padding: 50px 20px;
+}
+.content {
+  width: 50%;
+}
+.left1 {
+  padding: 40px;
+  text-align: left;
+  padding: 10px 30px;
+}
+h1 {
+  padding: 10px 30px;
+  font-weight: bold;
+  font-size: 40px;
+  color: hsl(300, 43%, 22%);
+}
+h3 {
+  font-size: 15px;
+}
+.first {
+  color: hsl(303, 10%, 53%);
+  font-size: 15px;
+}
+h3 {
+  color: hsl(300, 43%, 22%);
+  padding: 0 10px;
+}
+.right1 {
+  margin-top: 20px;
+}
+.Reviews,
+.Report,
+.BestTech {
+  background-color: hsl(300, 24%, 96%);
+  display: flex;
+  padding: 12px 10px;
+  width: 75%;
+  margin: 10px;
+  border-radius: 8px;
+}
+.Reviews {
+  margin-top: 35px;
+}
+.Report {
+  margin-left: 60px;
+}
+.BestTech {
+  margin-left: 120px;
+}
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+}
+.box {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px 10px;
+}
+.prof {
+  border-radius: 50%;
+  width: 50px;
+}
+span {
+  color: hsl(333, 80%, 67%);
+}
+h2,
+p {
+  color: hsl(0, 0%, 100%);
+  font-size: 15px;
+}
+.cont {
+  display: flex;
+  padding: 4px;
+}
+.mark {
+  display: block;
+  padding: 10px;
+}
+.boxmark2 {
+  padding-top: 30px;
+}
+.boxmark3 {
+  padding-top: 60px;
+}
